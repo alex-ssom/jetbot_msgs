@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>jetbot_msgs</name>
+  <version>0.0.1</version>
+  <description>The jetbot_msgs package</description>
+
+  <maintainer email="alex@solidstateofmind.com">Alex</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>message_generation</build_depend>
+  <exec_depend>message_runtime</message_runtime>
+
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+
+  </export>
+</package>
