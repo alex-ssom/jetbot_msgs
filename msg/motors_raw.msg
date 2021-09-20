@@ -1,2 +1,2 @@
-int16 left
-int16 right
+float32 left
+float32 right
